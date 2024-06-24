@@ -1,0 +1,49 @@
+.eclipse{
+    width:126.16px;
+    height: 126.16px;
+    top:40.14px;
+    left:98.29px;
+}
+.logo{
+    width:126.16px;
+    height: 126.16px;
+    top:40.14px;
+    left:98.29px;
+}
+.vertical-line{
+    width: 561px;
+height: 0px;
+top: 92px;
+left: 803px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+rotate: -90 deg;
+border: 1px solid #ADADAD
+
+}
+.social-icon-container{
+    width: 395px;
+    height: 55px;
+    top:596px;
+    left: 869px;
+}
+.submit-button {
+    width: 150px; /* Adjusted for better visibility */
+    height: 40px; /* Adjusted for better visibility */
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700; /* Optional: for bold text */
+  }
+.Comming-soon-title{
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.time-p{
+    font-family: 'Montserrat', sans-serif;
+}
+.time-h{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
